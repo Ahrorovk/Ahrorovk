@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my Google Play Profile](https://play.google.com/store/apps/dev?id=5972344736553768426)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** **GO** **KTOR**
 
 - 👯 I’m looking to collaborate on **Startups and Interesting projects**
 
