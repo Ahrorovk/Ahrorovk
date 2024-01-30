@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahrorovk](https://github.com/Ahrorovk)
 
-- 📝 I regularly write articles on [https://instagram.com/karomatullo_apk](https://instagram.com/karomatullo_apk)
+- 📝 I regularly write articles on [https://instagram.com/ahrorovk_apk](https://instagram.com/ahrorovk_apk)
 
 - 💬 Ask me about **Android**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%b0%d1%85%d1%80%d0%be%d1%80%d0%be%d0%b2-%d0%ba%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d1%83%d0%bb%d0%bb%d0%be%d1%85%d0%be%d0%bd-8b80b8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b0%d1%85%d1%80%d0%be%d1%80%d0%be%d0%b2-%d0%ba%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d1%83%d0%bb%d0%bb%d0%be%d1%85%d0%be%d0%bd-8b80b8248/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahrorov-karomatullokhon-8b80b8248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b0%d1%85%d1%80%d0%be%d1%80%d0%be%d0%b2-%d0%ba%d0%b0%d1%80%d0%be%d0%bc%d0%b0%d1%82%d1%83%d0%bb%d0%bb%d0%be%d1%85%d0%be%d0%bd-8b80b8248/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/karomatullo_apk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/karomatullo_apk" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/ahrorov_k_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahrorov_k_58" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ahrorovk5858/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahrorovk5858/" height="30" width="40" /></a>
