@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karomatullo</h1>
-<h3 align="center">A passionate Android developer from Tajikistan/Khujand</h3>
+<h3 align="center">A passionate Android developer from Tajikistan/Khujand, Now I am in Russia/St.Petersburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahrorovk&label=Profile%20views&color=0e75b6&style=flat" alt="ahrorovk" /> </p>
 
